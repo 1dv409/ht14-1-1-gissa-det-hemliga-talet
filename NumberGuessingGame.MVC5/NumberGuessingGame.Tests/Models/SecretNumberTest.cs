@@ -10,6 +10,7 @@ using NumberGuessingGame.Models;
 
 namespace NumberGuessingGame.Tests.Models
 {
+    [TestClass]
     class SecretNumberTest
     {
         [TestMethod]
